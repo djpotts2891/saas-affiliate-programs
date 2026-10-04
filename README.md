@@ -115,6 +115,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 
 | Company     | Description                               | Program Link                                                 | Commission Details           |
 | ----------- | ----------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
+| BizHub365 | All-in-one UK small business software: invoicing, CRM, bookings, payroll and HMRC Making Tax Digital (£29/month) | https://bizhub365.com/referrer/ | Up to 50% recurring for the first 12 paid months, then up to 20% recurring; 90-day cookie; no minimum payout |
 | TradingView | Financial charts platform                 | https://www.tradingview.com/partner-program/                 | 30% commission per sale      |
 | Xero        | Cloud accounting                          | https://www.xero.com/campaign/xero-partnership/              | Commission on subscriptions  |
 | CoinLedger  | Crypto tax software                       | https://coinledger.io/affiliate-program                      | 25% recurring on tax reports |
